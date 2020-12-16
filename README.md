@@ -20,6 +20,7 @@
     <img width="739" alt="문제13" src="https://user-images.githubusercontent.com/72727448/102305768-23a2f280-3fa4-11eb-97e6-cb892b4a6237.png">
     <img width="1280" alt="문제14" src="https://user-images.githubusercontent.com/72727448/102305770-256cb600-3fa4-11eb-896d-a9826650fca7.png">
     <img width="1280" alt="문제15" src="https://user-images.githubusercontent.com/72727448/102305772-256cb600-3fa4-11eb-8e6b-21ed517bbbde.png">
+    <img width="182" alt="다운로드" src="https://user-images.githubusercontent.com/72727448/102321070-81ddce80-3fc0-11eb-8587-011dbff8e2df.png">
   </div>
 </body>
 </html>
