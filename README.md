@@ -10,8 +10,8 @@
     <img width="192" alt="문제3" src="https://user-images.githubusercontent.com/72727448/102305742-1c7be480-3fa4-11eb-9d47-ed85455944a5.png">
     <img width="227" alt="문제4" src="https://user-images.githubusercontent.com/72727448/102305743-1c7be480-3fa4-11eb-817e-cc6de8c14af7.png">
     <img width="208" alt="문제5" src="https://user-images.githubusercontent.com/72727448/102305746-1d147b00-3fa4-11eb-92b5-7337b5112cf2.png">
-     <img width="454" alt="문제6" src="https://user-images.githubusercontent.com/72727448/102305748-1dad1180-3fa4-11eb-8610-c8b0c9b286ed.png">
-    <img width="444" alt="문제7" src="https://user-images.githubusercontent.com/72727448/102305752-1dad1180-3fa4-11eb-868b-9489cf497024.png">
+    <img width="454" alt="문제6" src="https://user-images.githubusercontent.com/72727448/102305748-1dad1180-3fa4-11eb-8610-c8b0c9b286ed.png">
+    <img width="446" alt="문제7" src="https://user-images.githubusercontent.com/72727448/102313927-df6c1e00-3fb4-11eb-9d9a-03ecf60dcf3e.png">
     <img width="269" alt="문제8" src="https://user-images.githubusercontent.com/72727448/102305755-1e45a800-3fa4-11eb-9df5-7493c94dd4b8.png">
     <img width="125" alt="문제9" src="https://user-images.githubusercontent.com/72727448/102305756-1ede3e80-3fa4-11eb-8b65-53433fc76a78.png">
     <img width="151" alt="문제10" src="https://user-images.githubusercontent.com/72727448/102305757-1ede3e80-3fa4-11eb-82f2-1d9a5ec9c86f.png">
